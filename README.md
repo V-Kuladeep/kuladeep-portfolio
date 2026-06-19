@@ -2,14 +2,14 @@
 
 Welcome to my professional developer portfolio! This website showcases my projects, skills, and work experience as a Full Stack Developer. It is designed with a premium, responsive dark-mode aesthetic.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-purple.svg?style=for-the-badge)](https://kuladeep-portfolio.pages.dev)
+[![Live Demo](https://img.shields.io/badge/demo-live-purple.svg?style=for-the-badge)](https://v-kuladeep.github.io/kuladeep-portfolio/)
 [![GitHub Profile](https://img.shields.io/badge/github-profile-black.svg?style=for-the-badge)](https://github.com/V-Kuladeep)
 [![LinkedIn](https://img.shields.io/badge/linkedin-connect-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/kuladeep-v-6ba443239/)
 
 ---
 
 ## 🚀 Live Website
-Check out the live deployment here: **[kuladeep-portfolio.pages.dev](https://kuladeep-portfolio.pages.dev)**
+Check out the live deployment here: **[v-kuladeep.github.io/kuladeep-portfolio](https://v-kuladeep.github.io/kuladeep-portfolio/)**
 
 ---
 
