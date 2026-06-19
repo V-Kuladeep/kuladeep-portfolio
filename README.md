@@ -1,16 +1,66 @@
-# React + Vite
+# 💻 Kuladeep V | Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my professional developer portfolio! This website showcases my projects, skills, and work experience as a Full Stack Developer. It is designed with a premium, responsive dark-mode aesthetic.
 
-Currently, two official plugins are available:
+[![Live Demo](https://img.shields.io/badge/demo-live-purple.svg?style=for-the-badge)](https://kuladeep-portfolio.pages.dev)
+[![GitHub Profile](https://img.shields.io/badge/github-profile-black.svg?style=for-the-badge)](https://github.com/V-Kuladeep)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/kuladeep-v-6ba443239/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Live Website
+Check out the live deployment here: **[kuladeep-portfolio.pages.dev](https://kuladeep-portfolio.pages.dev)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Dynamic Work Experience Timeline**: Interactive accordion detailing roles, responsibilities, locations, and technologies.
+* **Project Catalog**: Custom components highlighting full-stack and cloud projects with tags.
+* **Glassmorphism UI**: Premium dark mode aesthetic with custom gradients, subtle glows, and hover effects.
+* **Fully Responsive Layout**: Built with a mobile-first approach, fully optimized for phones, tablets, and desktops.
+* **Interactive Contact Form**: Client-side validated contact portal.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend**: React (v19), Tailwind CSS, Framer Motion, Lucide Icons
+* **Mock Core**: Node.js, Express.js, MySQL, Snowflake, Talend
+* **Build Tool**: Vite
+* **Deployment**: Cloudflare Pages
+
+---
+
+## 📦 Getting Started
+
+Follow these steps to run the portfolio locally on your machine:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/V-Kuladeep/kuladeep-portfolio.git
+cd kuladeep-portfolio
+```
+
+### 2. Install dependencies
+```bash
+npm install
+```
+
+### 3. Run development server
+```bash
+npm run dev
+```
+
+### 4. Build for production
+```bash
+npm run build
+```
+The output directory will be `dist/`.
+
+---
+
+## ✉️ Contact & Links
+* **Email**: [kuladeep14june@gmail.com](mailto:kuladeep14june@gmail.com)
+* **Phone**: +91 79811 82324
+* **LinkedIn**: [linkedin.com/in/kuladeep-v-6ba443239](https://www.linkedin.com/in/kuladeep-v-6ba443239/)
